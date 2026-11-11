@@ -2,7 +2,11 @@
 
 Proyecto de **Carlos Daniel Oliva Moreno** y **Camilo Andrés Oliva Moreno**, Universidad Autónoma de Bucaramanga (UNAB), para Investigación de Operaciones I.
 
-**[Abrir la aplicación de SET COVER](https://set-cover-coliva.streamlit.app/)** · [Informe completo · 20 páginas](docs/Informe_Proyecto_Oliva_Moreno.pdf) · [Pruebas automáticas](https://github.com/CDOM24/Set-Cover/actions/workflows/pruebas.yml)
+## Aplicación interactiva
+
+**[Explorar SET COVER en el navegador](https://set-cover-coliva.streamlit.app/)**
+
+Consulta las antenas seleccionadas, explora la cobertura de los 500 clientes y compara el método exacto con el algoritmo genético. La aplicación también explica el modelo matemático y la metodología del proyecto.
 
 ## El problema
 
@@ -35,8 +39,12 @@ Los presupuestos y soluciones iniciales fueron distintos. Los 5,718 s correspond
 - **[Código](setcover/):** modelo exacto, algoritmo genético, cargadores y validaciones. La interfaz está en [app.py](app.py).
 - **[Datos](datos/):** matriz y costos originales.
 - **[Resultados](resultados/):** selecciones, parámetros, registros y figuras. El [índice](resultados/indice.json) identifica las 26 corridas y el [manifiesto](resultados/procedencia.json) permite comprobar su procedencia.
-- **[Informe definitivo](docs/Informe_Proyecto_Oliva_Moreno.pdf):** investigación completa, conclusiones y referencias. Se conserva sin cambios.
 - **[Modelo matemático](docs/modelo_matematico.md)** y **[guía de uso](docs/GUIA_USO.md):** apoyo para comprender y explicar el proyecto.
+
+## Recursos y comprobaciones
+
+- **[Informe definitivo · 20 páginas](docs/Informe_Proyecto_Oliva_Moreno.pdf):** investigación completa, conclusiones y referencias. Se conserva sin cambios.
+- **[GitHub Actions](https://github.com/CDOM24/Set-Cover/actions/workflows/pruebas.yml):** consulta el resultado de las pruebas automáticas. La versión publicada de la aplicación aprobó las **110 pruebas en Linux**.
 
 ## Ejecución local
 
