@@ -1,0 +1,31 @@
+{
+  "tipo": "analisis_estatico_gramatica_Python_sin_ejecutar_Python",
+  "analizador": "@lezer/python 1.1.19",
+  "normalizacion": "Solo en entrada del analizador: literales Python válidos como 1. se expresan 1.0, porque la gramática de Lezer los rechaza. No se modifica el código.",
+  "node": "v22.23.2",
+  "archivos": [
+    "app.py",
+    "scripts\\verificar_resultados.py",
+    "setcover\\audit.py",
+    "setcover\\catalog.py",
+    "setcover\\cli.py",
+    "setcover\\data_io.py",
+    "setcover\\demo.py",
+    "setcover\\dual_certificate.py",
+    "setcover\\genetic.py",
+    "setcover\\genetic_diversity.py",
+    "setcover\\native_exact.py",
+    "setcover\\solver.py",
+    "setcover\\validation.py",
+    "setcover\\verification.py",
+    "setcover\\__init__.py",
+    "tests\\test_data.py",
+    "tests\\test_genetic.py",
+    "tests\\test_public.py",
+    "tests\\test_solver.py"
+  ],
+  "errores": [],
+  "pytest_ejecutado": false,
+  "streamlit_ejecutado": false,
+  "etapa": "análisis anterior a la instalación; ver VALIDACION_EJECUCION.json para las pruebas posteriores"
+}

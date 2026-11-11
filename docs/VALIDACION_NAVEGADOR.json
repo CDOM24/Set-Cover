@@ -1,0 +1,76 @@
+{
+  "navegador": "Microsoft Edge headless, perfil aislado",
+  "url": "http://127.0.0.1:8515",
+  "paginas": [
+    {
+      "pagina": "Resumen",
+      "segundos": 1.773,
+      "metricas": [
+        "49.051",
+        "48.878",
+        "34.532,74"
+      ]
+    },
+    {
+      "pagina": "Datos y soluciones",
+      "segundos": 0.211
+    },
+    {
+      "pagina": "Método exacto",
+      "segundos": 0.273
+    },
+    {
+      "pagina": "Algoritmo genético",
+      "segundos": 0.9
+    },
+    {
+      "pagina": "Comparación",
+      "segundos": 0.258
+    },
+    {
+      "pagina": "Informe y metodología",
+      "segundos": 0.528
+    },
+    {
+      "pagina": "Demostraciones",
+      "segundos": 0.433
+    }
+  ],
+  "descargas": [
+    {
+      "tipo": "seleccion_csv",
+      "antenas": 22,
+      "costo": 48878
+    },
+    {
+      "tipo": "informe_pdf",
+      "sha256": "e4bfc2b9c7f0c5e69c72c0e24522b8a195bac5d2870584e0a208b15fddfaca55"
+    }
+  ],
+  "demostraciones": [
+    {
+      "metodo": "AG",
+      "limite_busqueda_segundos": 1,
+      "duracion_interaccion_segundos": 2.21,
+      "costo": "51846",
+      "cobertura": 500,
+      "resultado_factible": true
+    },
+    {
+      "metodo": "MILP",
+      "limite_busqueda_segundos": 1,
+      "duracion_interaccion_segundos": 3.382,
+      "costo": "212146",
+      "cobertura": 500,
+      "resultado_factible": true
+    }
+  ],
+  "errores_js": [],
+  "validacion_archivos_originales": true,
+  "bloqueo_sin_aceptacion": true,
+  "correcto": true,
+  "incidencias_previas": [
+    "Los selectores de automatización se adaptaron a las etiquetas visibles y al campo de búsqueda. No se cambió la aplicación para superar esos selectores.",
+    "Un primer ensayo MILP no produjo una descarga recuperable. El diagnóstico directo y la repetición final en navegador produjeron instalaciones auditadas. Las salidas disponibles se conservan en demostraciones_validacion/."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "criterio": "mayor cota inferior tras igual presupuesto de 30 segundos; desempate menor costo",
+  "solver_elegido": "highs",
+  "pilotos": [
+    {
+      "solver": "highs",
+      "cota": 28366.0,
+      "costo": 49226.0
+    },
+    {
+      "solver": "scip",
+      "cota": 28076.587055438962,
+      "costo": 49226.0
+    }
+  ],
+  "reserva_para_pruebas_finales_y_margen_segundos": 90,
+  "modelo": "sin restricciones nuevas; solo inicio completo verificado"
+}

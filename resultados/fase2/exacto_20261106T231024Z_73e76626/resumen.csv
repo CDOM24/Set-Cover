@@ -1,0 +1,2 @@
+run_id,tipo,estado,optimalidad_certificada_solver,costo_total,numero_antenas,clientes_cubiertos,tiempo_solver_segundos,mejor_cota,brecha_porcentaje_solver
+exacto_20261106T231024Z_73e76626,resultado_real,factible_limite,False,49734.0,21,500,600.0180024000001,31318.0,37.02899424940691

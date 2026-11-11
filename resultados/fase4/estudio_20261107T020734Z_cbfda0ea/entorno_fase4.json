@@ -1,0 +1,21 @@
+{
+  "python": "3.12.12",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+  "procesadores_logicos": 12,
+  "dependencias": {
+    "numpy": "2.2.6",
+    "openpyxl": "3.1.5",
+    "scipy": "1.15.3",
+    "highspy": "1.11.0",
+    "pyscipopt": "5.5.0",
+    "matplotlib": "3.10.3"
+  },
+  "highs_embebido": "1.8.0",
+  "proyecto": "0.4.0",
+  "solvers_nativos": {
+    "highs": "1.11.0",
+    "scip": "9.2.1"
+  },
+  "nota": "highs_embebido corresponde a SciPy historico, no a la nueva interfaz highspy"
+}

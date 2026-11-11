@@ -1,0 +1,2019 @@
+{
+  "valida": true,
+  "tipo": "cota_inferior_por_dual_factible_racional",
+  "y": [
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "94097786376664704",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1875129178253035022",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "721985421423904385",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "77299191863225907",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "638692605802621319",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "49285004584571537",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "19540803321435359",
+      "denominador": "90840336134458"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "282729860397834331",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "406801544249585557",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "106174732357568490",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1041860788467396280",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "19872388284010293",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "136889528792110589",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1313255315742933247",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "150789482653725971",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3465515719279039",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "14819043227049736",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "563395824307635553",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "353389772303490131",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3368008513437521691",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3152990937738500455",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1077037957074512980",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "2254902709755218447",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1852715552387662108",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1197100483444292340",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1479605196747328031",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "174979700162584519",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "89287312170154923",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "505467878081093303",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "990014749352843013",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "445587610644256888",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1506228530441187561",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1410514769058218871",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "422958184995110911",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "313249963329716795",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "454844002979782233",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "12216762035793145",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1383572689159756687",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "304087542861583575",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "927503230794211279",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "4598878450368720495",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "96126272066658218",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "1002602216735347078",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "423962809518892623",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "4277581229577015",
+      "denominador": "107029702970302"
+    },
+    {
+      "numerador": "2328061891677103041",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1505947074951009387",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1614119948096889720",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "109201420871946755",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3101900763441300855",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "2758560438063133",
+      "denominador": "53514851485151"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "621956206052423245",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "350358438346136492",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1614504314838019748",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1295250623478405185",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2022063536110381479",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "346137045536343261",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "433468897223781705",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "1613043124822752325",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "4821306652532149",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "827579638118401359",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "32026668045227142",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "90237660784273563",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "28450688507543997",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "447485119567686856",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1308910934721861236",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "511243981656600769",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "196349385015267615",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "85421652458928421",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "135901837408842677",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "138216327078335322",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "83976238723660439",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1123245138198712695",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "3407182958600927059",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "787677892312866875",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "660967112453448739",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "127800107092862297",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "185499181076590261",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2576376961038026103",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1335744412431980641",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "301381431057812419",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "408837100415184437",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3226161483083084963",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "882637043509518053",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "75927011993042829",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1856218666782861377",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "3748804647566574989",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "650725066313532631",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "129494064856825097",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2413064224673549997",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "943556437597115",
+      "denominador": "45420168067229"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "4339733099542076589",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "73955297430578632",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "37045835595474587",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "503218576627100487",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "389565562150406991",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "452869296472823677",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "23274662066830329",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "912946454781234313",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1765079845035362980",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1417827261010404983",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1562467336619846879",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "392130324774020186",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1050416260631378003",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "5451858663155040919",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "344119171681455391",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "22133463333655582",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "242909139492470589",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2581426499071061357",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1939674669724806585",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "58394421283707222",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "195164042558797199",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "723055262994036423",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "784154928262069925",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "454165347768881313",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1169764357016573285",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "103796994615957051",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "360177509332596631",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "785979769284096421",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "9927265329340649",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2767685752201090803",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1435567706211863871",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "375275934622611354",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1753510584833582786",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "41858641547100097",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "231993681045483037",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2490391789628103633",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "81810864413574299",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "37078099892354064",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "228389055911662908",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "2674350663130272261",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1130372925871389080",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "929261767204766897",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1435333706486817975",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1012140885572195548",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "143474058662237679",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "86143305211353469",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "1452135596708468765",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "660115440094282909",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "522419648346892238",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "503948750602825852",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1484372577051176987",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "136432071746608877",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "405385808369473650",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "213248330427156404",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "216120458844505466",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "88712680245848820",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "979731356871216205",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1162654828174422978",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "118890571372309344",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "287565329160803124",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "82033959279801086",
+      "denominador": "317941176470603"
+    },
+    {
+      "numerador": "3021828344395799597",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1694885633650314859",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "535316727386996503",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "15009837288145100",
+      "denominador": "317941176470603"
+    },
+    {
+      "numerador": "136209963923488845",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "816869682809264048",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "2762015232178323470",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "2971809889124061513",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "3656560535280228515",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1095265271914481484",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "734037265293937426",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1723615772494323487",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "432324671197494755",
+      "denominador": "1544285714285786"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1096252476306013813",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "295408301053405207",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "385500527530006191",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "2631991770133222333",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "3876614091695533",
+      "denominador": "635882352941206"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "926580064578029611",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "802977793636834853",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1477738898023160791",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1145007659804310531",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1651706300902811805",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "900283242596322471",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1555673671945174169",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "3229737563208134841",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "1224707732386688967",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "2333505786048400991",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1911943658395645181",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1538596701620253701",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "905520529886382955",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1241825346470212415",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1211240817239981509",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "58501230401936022",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "96519341964832779",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "151912176428246445",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1984504784552378099",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "105882818808179804",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "55790063590195657",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "1507072392776638834",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "521294102853081888",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "140939531362491594",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "612733827686124811",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "402891329108846371",
+      "denominador": "5405000000000251"
+    },
+    {
+      "numerador": "1145514013725108287",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "120360822387324868",
+      "denominador": "772142857142893"
+    },
+    {
+      "numerador": "2100803162876768757",
+      "denominador": "10810000000000502"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    },
+    {
+      "numerador": "0",
+      "denominador": "1"
+    }
+  ],
+  "factor_reescala": {
+    "numerador": "5405000000000000",
+    "denominador": "5405000000000251"
+  },
+  "cota_racional": {
+    "numerador": "150582903219910410126",
+    "denominador": "5405000000000251"
+  },
+  "cota_decimal_aproximada": 27859.926590176394,
+  "cota_entera_si_costos_enteros": 27860,
+  "desigualdades_verificadas": 500,
+  "no_certifica_optimo_entero": true,
+  "demostracion": "y>=0 y A^T y<=c implican sum(y)<=c^T x para todo x>=0 con Ax>=1."
+}

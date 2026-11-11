@@ -1,0 +1,22 @@
+{
+  "fecha": {
+    "utc": "2026-11-07T20:00:39.274605+00:00",
+    "colombia": "2026-11-07T15:00:39.274605-05:00"
+  },
+  "fase": "piloto",
+  "estado_solver": "timelimit",
+  "estado": "en_ejecucion_parcial",
+  "tiempo_scip_acumulado": 1162.0,
+  "tiempo_total_segundos": 1170.172000000006,
+  "mejor_costo_verificado": 48878.0,
+  "cota_inferior_propia": 32632.503467070295,
+  "cota_inferior_combinada": 33433,
+  "brecha_nativa_SCIP": 0.49783175689610076,
+  "separacion_comun_porcentaje": 31.599083432218993,
+  "nodos_total": 7298,
+  "nodos_corrida_actual": 6249,
+  "optimalidad_certificada": false,
+  "fuente": "evento SCIP; fecha de la última medición",
+  "estado_final_piloto": "timelimit",
+  "tiempo_llamada_piloto_segundos": 1161.3600000000006
+}

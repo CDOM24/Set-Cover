@@ -1,0 +1,1196 @@
+[
+    {
+        "archivo":  "setcover/__init__.py",
+        "origen":  "src/setcover/__init__.py",
+        "sha256":  "b3b85a4cbb611c91e0ef3ec698ec8287c269a14a6994b7f32c9989a3c5558bf8"
+    },
+    {
+        "archivo":  "setcover/data_io.py",
+        "origen":  "src/setcover/data_io.py",
+        "sha256":  "3541c31e6d017a6dd9481465711414badaff82a77489b451922d4ac27d2a757f"
+    },
+    {
+        "archivo":  "setcover/validation.py",
+        "origen":  "src/setcover/validation.py",
+        "sha256":  "20eb07cd2856e9b6ffadb8ca52c77927d56d52020e623dad33b76dcede585171"
+    },
+    {
+        "archivo":  "setcover/verification.py",
+        "origen":  "src/setcover/verification.py",
+        "sha256":  "fd993d8805a3e8d4183c5b44451bf01c44a078b85c869e3361a08883008cbb62"
+    },
+    {
+        "archivo":  "setcover/audit.py",
+        "origen":  "src/setcover/audit.py",
+        "sha256":  "59c3a3e78a625348b86cfccafcd654404a149b2e3967c820d073f896095e2162"
+    },
+    {
+        "archivo":  "setcover/solver.py",
+        "origen":  "src/setcover/solver.py",
+        "sha256":  "6456984307aa2761dbc4282aa2f3291ff1e6535e8d872fd0a82139b8ed044f10"
+    },
+    {
+        "archivo":  "setcover/native_exact.py",
+        "origen":  "src/setcover/native_exact.py",
+        "sha256":  "47477762ba7f8ecf951ce6de80e9ace87a8adb69fa79d8a0db2306b4261259b0"
+    },
+    {
+        "archivo":  "setcover/genetic.py",
+        "origen":  "src/setcover/genetic.py",
+        "sha256":  "884940b083c37f773f6bbfe2d31e5d1605a367a2eead6a6453ca7256a1b47210"
+    },
+    {
+        "archivo":  "setcover/genetic_diversity.py",
+        "origen":  "src/setcover/genetic_diversity.py",
+        "sha256":  "43584610638b7f36b488d9a5d92b6ce97d6e352ea0600c21c224e4920f78cd47"
+    },
+    {
+        "archivo":  "datos/set_cover_500x500.csv",
+        "origen":  "set_cover_500x500.csv",
+        "sha256":  "a7404e349b5c44b6b51ec9e3b22d933b1e2c0a474a00ca06d2293fb9478f9ddf"
+    },
+    {
+        "archivo":  "datos/Costo_S.xlsx",
+        "origen":  "Costo_S.xlsx",
+        "sha256":  "b001dca46c698cdc359c76b5bd6bf422812368973f8f7022f5e379ca012e8871"
+    },
+    {
+        "archivo":  "docs/modelo_matematico.md",
+        "origen":  "docs/modelo_matematico.md",
+        "sha256":  "8cca8fa987c14d0e13d44504adba5af90e4cb57a9748ab719de062fa15be77b0"
+    },
+    {
+        "archivo":  "docs/referencias.bib",
+        "origen":  "informe_overleaf/referencias.bib",
+        "sha256":  "f102631df6bfc310b527d95eeacffa4fb441564dbb165e04c71f3576d06b513c"
+    },
+    {
+        "archivo":  "docs/Informe_Proyecto_Oliva_Moreno.pdf",
+        "origen":  "PDF definitivo suministrado por los autores",
+        "sha256":  "e4bfc2b9c7f0c5e69c72c0e24522b8a195bac5d2870584e0a208b15fddfaca55"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/resultado.json",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/resultado.json",
+        "sha256":  "67083ea33665558bbf3b0e9c639c86d3aee14c0c559b845bb557e5aa9e3a5928"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/antenas_seleccionadas.csv",
+        "sha256":  "b76267644c9dcb6b5f63704587546b1b1ad63881d8bba3a849659eae9ab7aa47"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/cobertura_clientes.csv",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/cobertura_clientes.csv",
+        "sha256":  "05e12efd892bc9a0f96f2b4b711733e28abbaf764fa3aa4a1e8040a39363544e"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/configuracion.json",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/configuracion.json",
+        "sha256":  "f95f74a479d0b1afbed4334d1292474a8e6c0067670ad099d4c997cc58e9e3eb"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/mapeo_antenas.csv",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/mapeo_antenas.csv",
+        "sha256":  "c2bd5290705ab6e1e06861c8c12bb2446829b075f96510291280eed60047bb6b"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/resumen.csv",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/resumen.csv",
+        "sha256":  "0e72e17b8f77d4952ef3f7000a30fc03c79aaafc653d89e24a0886085c15c211"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/seleccion_completa.csv",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/seleccion_completa.csv",
+        "sha256":  "2c328eb09244be1fceb69fa463c847686fe8c9ea0fb32cfb26ba2b151f4f88a6"
+    },
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/solver.log",
+        "origen":  "resultados/fase2/exacto_20261106T231024Z_73e76626/solver.log",
+        "sha256":  "03804dc29658d577640b33ca5b280a79ae372015ad55b810691ebd188c3facbe"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/resultado.json",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/resultado.json",
+        "sha256":  "015ab329f15f6bc3aef73ca5de8f04695e0d7d36f027839900f091fbe407045e"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/antenas_seleccionadas.csv",
+        "sha256":  "f63390fcc991e42450f472ebaebe4dbb76da3419bdf95dee1ec84957ec41b943"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/cobertura_clientes.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/cobertura_clientes.csv",
+        "sha256":  "6f519d95627f1eb68023128f6e8625479356e88257f3299284cc62ddfb34ddf5"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.csv",
+        "sha256":  "47bef58dbb6c2454717fa5009a921a4af2ae1ebd740b47a01a6dce6ce36cb8fc"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.pdf",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.pdf",
+        "sha256":  "997ffe0f4d305c1115a2b160a9593b4d29ee8f56d31672333ac34572435dc0d0"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.png",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/convergencia.png",
+        "sha256":  "779edd5cbe19500c98221e09205140d5097488b712cc3fe092c59ef45218d649"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/seleccion_completa.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/seleccion_completa.csv",
+        "sha256":  "9f46c2e068fb0822ebcc6ea9017a998c0a6485cbe0082b2c0855f0505b636787"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/resultado.json",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/resultado.json",
+        "sha256":  "deb5c02efd5e430fe836280a0d825779e81124f05e2ef665f789c296476c9823"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/antenas_seleccionadas.csv",
+        "sha256":  "84bb971fbd65c2fbd769d461601d5156f20680e42de06004c184b43b27c9e2cd"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/cobertura_clientes.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/cobertura_clientes.csv",
+        "sha256":  "13a1383d28be0d9124758f804acf78c396c60027eb5679341dc6c759cfd2a399"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.csv",
+        "sha256":  "dbf0ecb86dd69d022222ad92a8e1f188a9e0dfee5f4f818df46f069d852886d7"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.pdf",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.pdf",
+        "sha256":  "0e51e301e0aab28aced82837b4b190b36cd9c08d6e476f260f33d1076d0f4d4a"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.png",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/convergencia.png",
+        "sha256":  "045a375a7e0ba2a2ec0e97e32c6cec97a628529e8054faf19f61c50ddd1f9b70"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/seleccion_completa.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/seleccion_completa.csv",
+        "sha256":  "9f7957888c355d712974074dc0e8a7d646c968e10fa24185f4893b27b5307cb3"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/resultado.json",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/resultado.json",
+        "sha256":  "887bdf244ed9ff9c624cfff5b6c358bf3f1a1a6d0116b170da3b67f2ccf098cf"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/antenas_seleccionadas.csv",
+        "sha256":  "2a7190b2cc48a5b937dfe1f6406c3ea72dec452d3cd4959a7688ebd2484ab431"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/cobertura_clientes.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/cobertura_clientes.csv",
+        "sha256":  "2312cd322e5b2a969f6ebfbcee611ac4785796aceaa64351c5039a8dd82207d9"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.csv",
+        "sha256":  "b0a21b703b6950d7e0885810180fcd77d33348e2a5673969c38e9b4141281f95"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.pdf",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.pdf",
+        "sha256":  "dfd51b0b7dc5da66505e0da519c0e53b1fee068f68435ae489c805b7063f7ecd"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.png",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/convergencia.png",
+        "sha256":  "7aeb5ec73ae5e8a22d9e2f928d8e49b2d768d1d50ff912e68154c7a8fba14e43"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/seleccion_completa.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/seleccion_completa.csv",
+        "sha256":  "10c44ff50147938cf274d895ff82d171f0cdd929376c1ddc1418276493fde243"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/resultado.json",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/resultado.json",
+        "sha256":  "f3b80c02e70736a413ca2bcae75f84a99b713560b8ec24071a3666e6b745ee0d"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/antenas_seleccionadas.csv",
+        "sha256":  "055ec24249df161a5a25abc32773aee97e81fe4cd5b150fa55fce46ed4413ce4"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/cobertura_clientes.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/cobertura_clientes.csv",
+        "sha256":  "3b0d02a32ce927f95bd80e1abff4243b984e2237ea5fb9943536daad15fcc27e"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.csv",
+        "sha256":  "b4c2688871b17d9873379e1000a6258460656d9215b4c97d80d5c2e4ef4e62f9"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.pdf",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.pdf",
+        "sha256":  "fa29cff78dcc8a55e34cbfdc4ef3e464288ff962b590b135a5b95ad177da4669"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.png",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/convergencia.png",
+        "sha256":  "27a9442e328e56d07203795f382c6e101faade9b23b42317dcee8fcbff438cfa"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/seleccion_completa.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/seleccion_completa.csv",
+        "sha256":  "a29a467ca173283e34f3dfaacc35c5368eb8a538a0572b6f54a926f44f9e936f"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/resultado.json",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/resultado.json",
+        "sha256":  "2da1788921d06acab634bf4063a6a1892190c6da2ca51526ac023de61eef841a"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/antenas_seleccionadas.csv",
+        "sha256":  "8eaf1b505bfbc90232503e049ccd60f290da79f94d621e254fdf2cb68bec34ac"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/cobertura_clientes.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/cobertura_clientes.csv",
+        "sha256":  "e02fea5825ca4186550d12febcaf23e958fd03b5a89f6649d18076447731ff3b"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.csv",
+        "sha256":  "69c6f2068effe82f683f4e308f8d546ad6d96c9bdaaba3b3113f6684ddfde1f5"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.pdf",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.pdf",
+        "sha256":  "36c515967add178f2923ab48e3bc2c68bf4f4b6c5a7937f20f1ac6bed6259df7"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.png",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/convergencia.png",
+        "sha256":  "9460e2bfc488c34b1eaf19821b7350793c1394416eeddf794838085ffb3930d9"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/seleccion_completa.csv",
+        "origen":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/seleccion_completa.csv",
+        "sha256":  "935a48a4b2f2bdc7920b1c59860f1e6a31cf92696ee54a1830bca9ce139b94f9"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/resultado.json",
+        "sha256":  "0dcefd1b82f6e258781134838d77273f3459e84504a4fffca8f2e5ddba70daa7"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/antenas_seleccionadas.csv",
+        "sha256":  "368d9e2cd2f28b0085138a06823cc49cfe699ca674e926a33aaa338317384323"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/cobertura_clientes.csv",
+        "sha256":  "de25c406df1914c2cd596a09180d3480dba060bc7ea8b6fe39b1c353e18f0f2d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.csv",
+        "sha256":  "7730320c1b47d6f614edbd5497b5d4a1e48467a5c2194747116a8d207eb1fc05"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.pdf",
+        "sha256":  "e26a35d99d28971eb90d37a219c3c17c2d06c08e927206cf40ceebfb2f5611eb"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/convergencia.png",
+        "sha256":  "779edd5cbe19500c98221e09205140d5097488b712cc3fe092c59ef45218d649"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/seleccion_completa.csv",
+        "sha256":  "b72d48e13894c321faa85e0079d089a68782c32b3eb467668cf93f3f95598401"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/resultado.json",
+        "sha256":  "6ca11c8d0ed044ab2523b6a86cfc5486757dcb7c7f9bb1161e30bc6f7ea7d09f"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/antenas_seleccionadas.csv",
+        "sha256":  "e28928e705bdd019c4894e038130c2cedb0345222509be15d8e694078a51785c"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/cobertura_clientes.csv",
+        "sha256":  "3773ba6579ca1021ab922f1f262f40753ea72118d63aa9a3d718f4aef6846ecb"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.csv",
+        "sha256":  "df30b479a6515c1f766c265b2d71bbedb267c775d21d730da663411ecbd891be"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.pdf",
+        "sha256":  "baa276de96edf65c93e7a2f45f4378d1b1e8e670dfeeaefb0f80bf00baded945"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/convergencia.png",
+        "sha256":  "045a375a7e0ba2a2ec0e97e32c6cec97a628529e8054faf19f61c50ddd1f9b70"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/seleccion_completa.csv",
+        "sha256":  "55961af99339a09c2c6ac4b6a81b1635b069a5ba9cf13c2065477174713ab89d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/resultado.json",
+        "sha256":  "971b449d0e311b7adfb313b84622daa13bddf61033fea7494668ba18f7332797"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/antenas_seleccionadas.csv",
+        "sha256":  "df4f96c7014921ebf5a73f9ebf6f806a6a209222d8de8be95652fcaf0216fced"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/cobertura_clientes.csv",
+        "sha256":  "9b896f4d96cd1464c8968d189d471a5c2aece6d83ec35fc6246213a581e4f747"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.csv",
+        "sha256":  "c13d63ac8b89c1e2dddd071199ff2555ec1f6fce60039fb31c7ffc774d630a2b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.pdf",
+        "sha256":  "ab77e2bfefc08e45d89bdf0a63cea1c8f50f38ce9af9adda41afc878a454efa8"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/convergencia.png",
+        "sha256":  "7aeb5ec73ae5e8a22d9e2f928d8e49b2d768d1d50ff912e68154c7a8fba14e43"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/seleccion_completa.csv",
+        "sha256":  "181b186f47f1607c6f95ce2074402624bc193ee93cb379f5529f5e88cbd093ae"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/resultado.json",
+        "sha256":  "760e4aaa984b3f5b195de1afe22922796c1fe1d8ad6e62bc5c720dc8a31aa5ef"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/antenas_seleccionadas.csv",
+        "sha256":  "2b2d4d439df7155f14f18b7eb221091781741217cc032bd895e3fab91fb8f9df"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/cobertura_clientes.csv",
+        "sha256":  "5618124f87678e707270e06af48389968aae34c27cfe13e68b6cdcee9dbb1190"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.csv",
+        "sha256":  "3bf3a948186674314bc4cca2a8d22bfd843fd04a7875cb90802551d0b223aef9"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.pdf",
+        "sha256":  "5a7774eb0ed8a725067b8efb6bd91b162431efdff669d059f92e32453b580706"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/convergencia.png",
+        "sha256":  "27a9442e328e56d07203795f382c6e101faade9b23b42317dcee8fcbff438cfa"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/seleccion_completa.csv",
+        "sha256":  "d80a84852e3f70c4d9da4400080fed81498a777c060d409e6f7009a08a855542"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/resultado.json",
+        "sha256":  "c97177f087f42e347e29e1b97e4eda494cc8a0f1e005e4f77eac093a344bf6af"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/antenas_seleccionadas.csv",
+        "sha256":  "9e05c0760191bf22dc3277322649016797609dcbea7b270c9fc69c247582d88b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/cobertura_clientes.csv",
+        "sha256":  "fdf5259553b22c85520d210095ec556595c39604d41ae501c88b1d03205876e5"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.csv",
+        "sha256":  "f3c78ade3d4ba501f60d4be926ab7ef4e91cb09bf887e5a33f21d7d206b6ea2c"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.pdf",
+        "sha256":  "fb4fedcae65b995a6014cd3cec39718f53bc884fe07680fc529ba81745fc95f9"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/convergencia.png",
+        "sha256":  "9460e2bfc488c34b1eaf19821b7350793c1394416eeddf794838085ffb3930d9"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/seleccion_completa.csv",
+        "sha256":  "76371554eaa426c346648d618fbcc779cf20e25efad4d7f9248ccb6c7eaf4de0"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/resultado.json",
+        "sha256":  "e5e937aeaaa7c1977ef27631719280e3893072b6c1ee7f11189dd49073ed7cdd"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/antenas_seleccionadas.csv",
+        "sha256":  "368d9e2cd2f28b0085138a06823cc49cfe699ca674e926a33aaa338317384323"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/cobertura_clientes.csv",
+        "sha256":  "de25c406df1914c2cd596a09180d3480dba060bc7ea8b6fe39b1c353e18f0f2d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.csv",
+        "sha256":  "554b24445b01ee394571ef860bd990ea9f3316e5600b70260c88df61aba2f425"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.pdf",
+        "sha256":  "1c2d6c64255ccf6e9a85fc0103821598c1789740786cfcbe845264e20ece9683"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/convergencia.png",
+        "sha256":  "a4d6649a58819256fc38e02e67d51d46a86591fb17e4b7d6503240ae8659db88"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/seleccion_completa.csv",
+        "sha256":  "b72d48e13894c321faa85e0079d089a68782c32b3eb467668cf93f3f95598401"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/resultado.json",
+        "sha256":  "6140b6ea3dbad63214e67ffcc126c7961edc14df7a4190994e58d9d1dc9f8b2a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/antenas_seleccionadas.csv",
+        "sha256":  "e28928e705bdd019c4894e038130c2cedb0345222509be15d8e694078a51785c"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/cobertura_clientes.csv",
+        "sha256":  "3773ba6579ca1021ab922f1f262f40753ea72118d63aa9a3d718f4aef6846ecb"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.csv",
+        "sha256":  "2ddb3228ab0121f9e380adbbfdb718e1ea4a4009233c4d797fc9210b8d5bf27a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.pdf",
+        "sha256":  "ebf18b967d189797f880d4346cdb022bc5e57c326d2420d1d11aa96d72c7360b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/convergencia.png",
+        "sha256":  "21f049a2a050fff543f6b41b0a4b1775a9bc4e947ef74dda06a841a43382ed76"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/seleccion_completa.csv",
+        "sha256":  "55961af99339a09c2c6ac4b6a81b1635b069a5ba9cf13c2065477174713ab89d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/resultado.json",
+        "sha256":  "6115d0207562ce8c353818899ac45a040c00b06732dbc8a386e4bc792a7dc0d8"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/antenas_seleccionadas.csv",
+        "sha256":  "df4f96c7014921ebf5a73f9ebf6f806a6a209222d8de8be95652fcaf0216fced"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/cobertura_clientes.csv",
+        "sha256":  "9b896f4d96cd1464c8968d189d471a5c2aece6d83ec35fc6246213a581e4f747"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.csv",
+        "sha256":  "36e21ed60743c021d61dbd99a0dec5f93c14914ae1845453d92d3ab0513b01f0"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.pdf",
+        "sha256":  "ac1c234e3899dd01fa7589ecbe4f061cdb889ec3327fb6e1ed1a44fc5fd885b7"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/convergencia.png",
+        "sha256":  "cdfa4779db535f05c7764d983467b0a537a582dbcee547afd91383d97ce34130"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/seleccion_completa.csv",
+        "sha256":  "181b186f47f1607c6f95ce2074402624bc193ee93cb379f5529f5e88cbd093ae"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/resultado.json",
+        "sha256":  "5f8c373056bdc8986a90831290ee02f825455505ad4aac7abfc33a8957cafd4f"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/antenas_seleccionadas.csv",
+        "sha256":  "9e01884c17405a61b2db41e1beb24164e84e8a3feededdb2504af5b1a05e3b53"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/cobertura_clientes.csv",
+        "sha256":  "594f432b3445045afd766d1cde68d67f21ee514f1c5aa6bad408e927d04e650d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.csv",
+        "sha256":  "ff0ff35f750e782c9641f99f7c4e4b0ce0db8d57d339c95b080faa804325800d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.pdf",
+        "sha256":  "bb441c58f746f37360e459a41958238abce88fc864d62c58337adce07310f1fe"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/convergencia.png",
+        "sha256":  "a83d1c3443d7f116271d5eb235342aca30e05dc438afd9c83280b184853b0121"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/seleccion_completa.csv",
+        "sha256":  "c94298cfc08c67241ee666e73086d2df5d1a37e84f5820814824e011d739e159"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/resultado.json",
+        "sha256":  "1837e72a4ef1ce908d41e1b7ac1d8cedf3dae9549d326f29f88403820dd36a00"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/antenas_seleccionadas.csv",
+        "sha256":  "9e05c0760191bf22dc3277322649016797609dcbea7b270c9fc69c247582d88b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/cobertura_clientes.csv",
+        "sha256":  "fdf5259553b22c85520d210095ec556595c39604d41ae501c88b1d03205876e5"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.csv",
+        "sha256":  "1fc8824b431b9ef1b85f8db5bb2236420db09fde4cc70151cc32e6ea9834aca1"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.pdf",
+        "sha256":  "a1ed2e907972d364f13696df752845feb35c1d1f418ae68ae6633b8da6617317"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/convergencia.png",
+        "sha256":  "b05c63c7e1ee162ca080c6ed0edadaef85d7e82d60fa1f8d70fa1b57aa9fa277"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/seleccion_completa.csv",
+        "sha256":  "76371554eaa426c346648d618fbcc779cf20e25efad4d7f9248ccb6c7eaf4de0"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/resultado.json",
+        "sha256":  "01f80f0e7c2cad0a80adfa5f9549da6a4abdfbdbf4b30ebaea2c006f027309e6"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/antenas_seleccionadas.csv",
+        "sha256":  "0fd12e3364f754c6b8421d76ba6c0c188dfa3939259acd926dba52fe5964a454"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/cobertura_clientes.csv",
+        "sha256":  "ba5764bead924082fc7a03af9f344fca4c5ae462c148054e6ddc359fb111c77b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.csv",
+        "sha256":  "133e4bc861051ce5b7cf6f0ab1a93894ecc8a18040b1f4f246e62acb514c6477"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.pdf",
+        "sha256":  "54457c85699447f4a50001d654bd3e8be9ca1b799116e7a3ebcfbe073a1b676f"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/convergencia.png",
+        "sha256":  "2afb2eb1c92c82d3478610dd612b58030e2c9200e05bfe8d9a3b18a83022ff8c"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/seleccion_completa.csv",
+        "sha256":  "a6a0bb8cfdd4260aabeafca457216e9ac72d59679e1abdbf9180a7c25178efe7"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/resultado.json",
+        "sha256":  "66ab062480e8836b3ca4e5d3fbfca28eb710b7f6d4c2c422ec7df42eae791d8d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/antenas_seleccionadas.csv",
+        "sha256":  "a833ee0eb456fa1b2c9169657f39ac075f0aa785f2d9d5a906773b66d41cb33e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/cobertura_clientes.csv",
+        "sha256":  "bea7f90a26303dbfd35ae13f406c782a526c0256c4ac2067334d9cafe8e6f1f3"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.csv",
+        "sha256":  "18c837becb134516723608ae1e71af9ecf8156e2fcbd07a9fc91b3efb1b50811"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.pdf",
+        "sha256":  "85258e9dd9f7bc77435bde82419327ec1a7092858b5055ff5563ee73221a6c00"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/convergencia.png",
+        "sha256":  "bcefa6dd690c447cadab49aa2362cc4a722bc8a80635db7ab6f916f60906ef12"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/seleccion_completa.csv",
+        "sha256":  "e44626c1726f0a45111599f3c2f0d7364f4dd00d75e7759aa2872be003e9ef11"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/resultado.json",
+        "sha256":  "7509d1e175cbd136241550df8597512386abde32dcc49a70ddac2e9321ce2843"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/antenas_seleccionadas.csv",
+        "sha256":  "a833ee0eb456fa1b2c9169657f39ac075f0aa785f2d9d5a906773b66d41cb33e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/cobertura_clientes.csv",
+        "sha256":  "bea7f90a26303dbfd35ae13f406c782a526c0256c4ac2067334d9cafe8e6f1f3"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.csv",
+        "sha256":  "7e407fd4c3422dfecece743c4ffe64719197c2fb374e9b034491503e3822d366"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.pdf",
+        "sha256":  "6630b3d26349443884543fd9da4728c22e29388d45ce5a3cd228c4519544aae4"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/convergencia.png",
+        "sha256":  "a14dbd04b554a4b67dcc6a3cd31d7c439afb4fd504d2b76766bcab512a4560dc"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/seleccion_completa.csv",
+        "sha256":  "e44626c1726f0a45111599f3c2f0d7364f4dd00d75e7759aa2872be003e9ef11"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/resultado.json",
+        "sha256":  "b21c657883bdca918d928e998341838146316ddd33f56a2676c0fe896fda8195"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/antenas_seleccionadas.csv",
+        "sha256":  "bf065b14741e17c1543451778378b1cf2d9be2c19d50790bff5c4b36556b4a70"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/cobertura_clientes.csv",
+        "sha256":  "4625f95bd15d29728fe05a444c5ec8939b5ee2df627ad74cc62a2573ae45324a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.csv",
+        "sha256":  "cfef741695f46abd350332969a6bd5d40637e97f6011a84b71f3185b59438e8d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.pdf",
+        "sha256":  "ceafa4c1b74ef08c82f2cfc488b106bf42d43bfe34d0c268fb178b55788565ba"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/convergencia.png",
+        "sha256":  "387eef14f13512a4b1724eda26a8198686db707dfc7bfedc372d3df78338a138"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/seleccion_completa.csv",
+        "sha256":  "6816c5e6834ee7fdf3322fb91adb1c9910ac9c2beb8fbee54ee9e935d673d702"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/resultado.json",
+        "sha256":  "dd9cc3b99125cd41144fa14dbcd850217ea46634df3574ce6d50b4c0f8b0beaa"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/antenas_seleccionadas.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/antenas_seleccionadas.csv",
+        "sha256":  "367d69d61846b5abbeb4af77f61a43aa4cc58d9c72b0e23145919e0f704ef43e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/cobertura_clientes.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/cobertura_clientes.csv",
+        "sha256":  "8654ed4d48653391f20735b04094e7998ad7506a7fbf5c07d436e04848a2aaa8"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.csv",
+        "sha256":  "ebd4b2add2014e5cba1024027ff49c097a7a847146fb2f80af595aa52fd6a82e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.pdf",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.pdf",
+        "sha256":  "c4dd457ae513318a7274419bf06f11ae3b0f60b11d570b8e6037183ac008c294"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/convergencia.png",
+        "sha256":  "c40bb42d7919c3e8e988be304e14c20c36150844fbc57b5930cdb851ebe53b33"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/seleccion_completa.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/seleccion_completa.csv",
+        "sha256":  "f522d3037238a47516c6d9449d7801996e0679e6933c2e90cf7ebb0b6f1669ac"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/resultado.json",
+        "sha256":  "7a1dd99deab1696fe9e8b6391f623f7e18141f53941871563e33550f89c6111f"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/cobertura.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/cobertura.csv",
+        "sha256":  "9b896f4d96cd1464c8968d189d471a5c2aece6d83ec35fc6246213a581e4f747"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/seleccion.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/seleccion.csv",
+        "sha256":  "181b186f47f1607c6f95ce2074402624bc193ee93cb379f5529f5e88cbd093ae"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.log",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.log",
+        "sha256":  "dd8296bf9b73aa6e3c9a877571ca3a617421fb760eeb19f039b9163dc11b2fbf"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.mps",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.mps",
+        "sha256":  "0d7ba7feddd4c611927f3f6654430333dcb94c2e59b2d69ea33aa801725e2b83"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.sol",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/solver.sol",
+        "sha256":  "cb2a6d494162985f678ff412fae541c7aa3284ca869f2381bac8c978e7a34f6e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/resultado.json",
+        "sha256":  "2079bea3f945948cbc2c685985708447961fa8cf38fef6507c54cd413eebe657"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/cobertura.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/cobertura.csv",
+        "sha256":  "9b896f4d96cd1464c8968d189d471a5c2aece6d83ec35fc6246213a581e4f747"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/seleccion.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/seleccion.csv",
+        "sha256":  "181b186f47f1607c6f95ce2074402624bc193ee93cb379f5529f5e88cbd093ae"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.cip",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.cip",
+        "sha256":  "e0d0bd0070547c9960614922831cd13c22f756c7ca7db21f23a5a693e48dda0e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.log",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.log",
+        "sha256":  "249d0d2ae6393836623afa1f2b388b42b27a6f81f21b65bd37aa9808593ee85c"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.sol",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/solver.sol",
+        "sha256":  "a041bba4ac09ecc3b3a5b9e1fdaa150184989cc921581f77e9703610d1e67293"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/resultado.json",
+        "sha256":  "4dca0ccacb2d91e06a4d60e5b9b12d5ae192cf7f5bc852c64f81e36dd5994fcf"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/cobertura.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/cobertura.csv",
+        "sha256":  "9b896f4d96cd1464c8968d189d471a5c2aece6d83ec35fc6246213a581e4f747"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/seleccion.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/seleccion.csv",
+        "sha256":  "181b186f47f1607c6f95ce2074402624bc193ee93cb379f5529f5e88cbd093ae"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.log",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.log",
+        "sha256":  "0c86d762d08f2b192042ed0f75e0423f5b539f4ea6ab3fafee8c23c6915c2ec4"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.mps",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.mps",
+        "sha256":  "0d7ba7feddd4c611927f3f6654430333dcb94c2e59b2d69ea33aa801725e2b83"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.sol",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/solver.sol",
+        "sha256":  "15ff929bae4e6cb9a436998188ff5dbb3330a5b538f6f01296ed6dafdf7b8a1e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/protocolo_genetico.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/protocolo_genetico.json",
+        "sha256":  "d30f5ef29c7c78f09860a1dfe47b90cc14c5e6394e1195febcd454b557ae5848"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/presupuesto.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/presupuesto.json",
+        "sha256":  "f06f943cba5c4553124924d076e1f869ce392941657670dafaa6087a46a773a4"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/identidad_instancia.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/identidad_instancia.json",
+        "sha256":  "7ff3597ddcd91daf396a09a75f20515c88f5523b4624a0a855e5ac8c348fff33"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/conclusion_cientifica.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/conclusion_cientifica.json",
+        "sha256":  "ce69b2a17eae11344017ec169520d1cf0972ab544c502b347d45047718c2ee1b"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/resumen_exacto.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/resumen_exacto.json",
+        "sha256":  "a04cd5c54b8598ed25f996678ff134f3eb4e1002751c56038e3d7cae5e5fdc93"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/resumen_configuraciones.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/resumen_configuraciones.csv",
+        "sha256":  "cb3275554b6601e4a5d37c298f6a6ac45ba26a49c25207647c124d08dc859635"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/progreso_exacto.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/progreso_exacto.png",
+        "sha256":  "f686a9da2ac956c7d4ca2b3acb57d12c5164a491b5bef7fb490a09e6df77be2a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_configuraciones_ag.png",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_configuraciones_ag.png",
+        "sha256":  "5463249c15a7bbac4ea5bc0bdfe6dd17bfc3c7b536ccba55d99e470ffe4d49a6"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/resultado_final.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/resultado_final.json",
+        "sha256":  "c98c630f4c617da536675405c77ac6e953a2c5b3fc2447fa6618184926b0cdff"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/configuracion.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/configuracion.json",
+        "sha256":  "268c5685b14d39264b2ecdb1310755a3118a8c1919971ddb08e7fd92f8bd547d"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/estado.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/estado.json",
+        "sha256":  "c0c367d10b3cdf288754d1f67fcbb39b228e857a4d05690518fa61480d4cb08f"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/highs.log",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/highs.log",
+        "sha256":  "e5a03f386c483bef6fe40e241fc60c775cce2b08a123a6520f0a2e5a50c02ac0"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/inicio_genetico_verificado.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/inicio_genetico_verificado.json",
+        "sha256":  "2ae68c2a4410c3c6a64a192b0169b33195d6c0b4d5ecff8fb8bef82b022f039a"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/integridad_despues_supervisor.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/integridad_despues_supervisor.json",
+        "sha256":  "af8c5b7b04c84d22e792cfab6170c34481451a615edf0a06205a640e8af87f03"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/integridad_despues_worker.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/integridad_despues_worker.json",
+        "sha256":  "a5df29bc79dbd87e595086400c8f5e71f56fc056d3726ff718c1ad01a6f805a3"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/mejor_solucion.json",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/mejor_solucion.json",
+        "sha256":  "807a9035fb931f6eab4f43cc168b4673986fa24732be73b44e2715c85f35c516"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/modelo_original.mps",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/modelo_original.mps",
+        "sha256":  "0d7ba7feddd4c611927f3f6654430333dcb94c2e59b2d69ea33aa801725e2b83"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/proceso.log",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/proceso.log",
+        "sha256":  "76f4a460e47592e272b0a32475fdf6b14497b60258596956ffd88a386009203b"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/progreso.jsonl",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/progreso.jsonl",
+        "sha256":  "2a74d644d98129ce4df3a254805eed12d56188f1084b3ec0b5edce0685e0a41f"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/solucion_nativa_final.sol",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/solucion_nativa_final.sol",
+        "sha256":  "6976498686a3fe8768de0ee7652e60a3962c5cdf5edcbbd6d36290b8e591666c"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/supervisor.log",
+        "origen":  "Investigacion_Exacta_Adicional/ejecuciones/highs_20261107T165507Z_7793aea9/supervisor.log",
+        "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/resultado_final.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/resultado_final.json",
+        "sha256":  "4f2e3faeb211728b41b4a60d0fb9144b57b9ee48d608736a51417fa2b9580796"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/configuracion.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/configuracion.json",
+        "sha256":  "76db48cb83b7e54e1229dfe5a925a9623b4bb9eb6d91166ee5c3d0255be690b3"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/decision_piloto.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/decision_piloto.json",
+        "sha256":  "eb05e34a06a98c49e8d841f0457bd219c5b95f1eb572afa520d2a18b5c2261a2"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/estado.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/estado.json",
+        "sha256":  "d708bd53ef28e620ba1593d28fa13fb5f78e837114ed362446f949b74c4320b3"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/integridad_despues_supervisor.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/integridad_despues_supervisor.json",
+        "sha256":  "8ce674f28974e31334277d1fc1e541bf6afd1db97b6ff104dbeb5decd786eb71"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/integridad_despues_worker.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/integridad_despues_worker.json",
+        "sha256":  "510aee85bf6adddd59a29ea98635092d87efdc18a6ac298cead6b5a132351895"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/mejor_solucion.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/mejor_solucion.json",
+        "sha256":  "7339e1a8628111fbf1c7753b90e2039a29e133003c0a2d16665021b10434d284"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/modelo_original.cip",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/modelo_original.cip",
+        "sha256":  "938979d88e36de28594ff58566c4b4c71d5487fae3c7e91f1714286577af52eb"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/origen_y_entrada.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/origen_y_entrada.json",
+        "sha256":  "0174f0aa16fc9d6631e8bccc7a3ee2dee10cb95702d493e929c1c4d9e0267463"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/parametros_completos.set",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/parametros_completos.set",
+        "sha256":  "2c10c6baf1272343269fb58033157e8b256f7fa32374dd9c099f5d2416132b44"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/parametros_extension.set",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/parametros_extension.set",
+        "sha256":  "dd7f43d92178e686e4fb5e8a0e9a82fc00c2cb316cb359ebb84ba5e75415fedc"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/proceso.log",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/proceso.log",
+        "sha256":  "c906bc13a85b26a5f7da9fe3e0fe7a86f92195062af498699cb21e7e8dc29bc9"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/progreso.jsonl",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/progreso.jsonl",
+        "sha256":  "62c26a3969341782ba7ca543caaf7dbfc410e8d14c33a59693b023b9d28afeec"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/resultado_piloto.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/resultado_piloto.json",
+        "sha256":  "ac2d8bc3ef95887c77c76c7b6dc7d7b7fc0887919c126e0882f10615c12d3156"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/salida_final.sol",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/salida_final.sol",
+        "sha256":  "830400c28295e8edb5a2b644575a2ccefe6d858e1aedca2c8f8d916c74fca1b0"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/salida_piloto.sol",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/salida_piloto.sol",
+        "sha256":  "830400c28295e8edb5a2b644575a2ccefe6d858e1aedca2c8f8d916c74fca1b0"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/scip.log",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/scip.log",
+        "sha256":  "f2c8db322389f55fb3ffd7fbea9225fc1a4a0faa870bce841bdc2c79cc109707"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/solver_version.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/solver_version.json",
+        "sha256":  "5b95df9fd198d2bf68edb8feb9553a950629570bd632df1eba83c85e1134054f"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/supervisor.log",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/ejecuciones/scip_20261107T194109Z_db8ebe0c/supervisor.log",
+        "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "archivo":  "resultados/protocolo_scip_adicional.json",
+        "origen":  "Investigacion_Exacta_Adicional/Experimento_02_SCIP/protocolo.json",
+        "sha256":  "6c05f96687844494787926eb3e13f5b73bd4fed38513254e17353908c838f297"
+    },
+    {
+        "archivo":  "tests/test_data.py",
+        "origen":  "tests/test_data.py",
+        "sha256":  "3836880ede8f5284c2e4094601eac9d317db7b02f6cf48b4130577fece6a752c",
+        "sha256_base":  "c2ec76d245a1275aa539028a0dce9346e6ac9d2884eb5573bff8163c689d720a",
+        "adaptacion":  "Prueba adaptada a la única copia de datos en datos/"
+    },
+    {
+        "archivo":  "tests/test_solver.py",
+        "origen":  "tests/test_solver.py",
+        "sha256":  "025b7be138035053500f9b372f7b5f6a18dbb2ca6356e032ddd1cc7446662583",
+        "sha256_base":  "71dd2f89a4bf1d7bc938b844b54d348d49cb6678e6441a3729af07cba0ffd404",
+        "adaptacion":  "Prueba adaptada a la única copia de datos en datos/"
+    },
+    {
+        "archivo":  "tests/test_genetic.py",
+        "origen":  "tests/test_genetic.py",
+        "sha256":  "8bc381a7d7eb38e9b3454ad82138e8baae9b48dfdb29efede387df464764bf83"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/analisis_estructura.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/analisis_estructura.json",
+        "sha256":  "a6350856ce45abf95835af68f30aa3e47605782bf20b1a199c5a9ab98aa5f31a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/certificado_dual_lp.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/certificado_dual_lp.json",
+        "sha256":  "740ac3d70e8b5ab7820487a8d44eb371f525e51ded2d477ec3a3449ab57fffaa"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/entorno_fase4.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/entorno_fase4.json",
+        "sha256":  "d94b5420774f98ecca27be49adfd7b67ce5819eee966c79219a0ecec663299f1"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/presupuesto_final.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/presupuesto_final.json",
+        "sha256":  "f06f943cba5c4553124924d076e1f869ce392941657670dafaa6087a46a773a4"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/resumen_genetico.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/resumen_genetico.json",
+        "sha256":  "032a25a254d750dde3200c2f86adbae7a3a6c1016017132f411c8997f5e06d4f"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/seleccion_configuracion.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/seleccion_configuracion.json",
+        "sha256":  "e645ec0c2821b68ec630f2b6fc54eb47e186a91e428758e846e272776653f188"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_cientifica.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_cientifica.csv",
+        "sha256":  "c3cb9a85ff8189f721f4ec16da8687c8dd17579f54192b6ffbaafdd1a52dcd2a"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_pareada.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/comparacion_pareada.csv",
+        "sha256":  "43507e424bb2d840bd7b6c81515df3d4a9cf0eca6687ddf654fa97facdf6b2a5"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/progreso_highs_prolongado.csv",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/progreso_highs_prolongado.csv",
+        "sha256":  "614ac75e92baae76895ce5ae17b372ec9fe42bf07c7bb5078cffd7c59429d846"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/resultado.json",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/resultado.json",
+        "sha256":  "606c502cd7924bf64cabaa9359e6475acff6dc015151ee5e334a22df61d1ef4e"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.log",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.log",
+        "sha256":  "b9a43ff44f7e9bfa48359652feeb1144cf2f88917c504ac7e614c9eba7a8f6b1"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.mps",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.mps",
+        "sha256":  "ed57c30d36110c43de78a1faeed6bef9e39812fbe01bc0457f874a7e921f988d"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.sol",
+        "origen":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/relajacion_lineal/solver.sol",
+        "sha256":  "dec52a482433b6896ac8532f4adb440a6b17d51aa357b8b11bc5c1141a04548d"
+    },
+    {
+        "archivo":  "setcover/dual_certificate.py",
+        "origen":  "src/setcover/dual_certificate.py",
+        "sha256":  "9b48167415b96d16a7361fa3d92fff6233a10b3e26a9a29ce09153014bb224e5"
+    }
+]

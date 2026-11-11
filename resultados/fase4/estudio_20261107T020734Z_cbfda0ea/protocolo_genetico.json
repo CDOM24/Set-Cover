@@ -1,0 +1,45 @@
+{
+  "estado": "fijado antes de nuevas corridas geneticas",
+  "semillas": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "presupuesto_por_corrida_segundos": 45,
+  "presupuesto_maximo_15_corridas": 675,
+  "parametros_comunes": {
+    "population_size": 80,
+    "generations": 300,
+    "stagnation_generations": 100,
+    "elite_count": 4,
+    "tournament_size": 3,
+    "crossover_probability": 0.85,
+    "greedy_fraction": 0.5,
+    "initial_probability": 0.03,
+    "repair_candidates": 3
+  },
+  "configuraciones": [
+    {
+      "nombre": "original",
+      "mutation_probability": 0.004,
+      "inmigrantes": 0
+    },
+    {
+      "nombre": "mutacion_001",
+      "mutation_probability": 0.01,
+      "inmigrantes": 0
+    },
+    {
+      "nombre": "inmigrantes_10pct",
+      "mutation_probability": 0.004,
+      "inmigrantes": 0.1
+    }
+  ],
+  "orden": "por semilla, rotando el orden de configuraciones para reducir sesgo de posicion",
+  "referencia_fija": 49734,
+  "referencia_genetica_historica": 49226,
+  "sin_inicio_desde_solver": true,
+  "nota": "Sin ajuste sobre la semilla 33. Todas las ejecuciones se conservan. Igual presupuesto maximo; tiempos reales pueden diferir por estancamiento."
+}

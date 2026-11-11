@@ -1,0 +1,247 @@
+﻿{
+    "tipo":  "auditoria_independiente_PowerShell_Decimal_sin_optimizacion",
+    "archivos_verificados":  238,
+    "corridas":  26,
+    "entradas_uno":  24971,
+    "mejor_ag":  49051,
+    "mejor_global":  48878,
+    "cota_inferior":  34532.736151544923,
+    "separacion_comun_porcentaje":  29.349121994465971,
+    "optimo_certificado":  false,
+    "resultados":  [
+                       {
+                           "etiqueta":  "HiGHS inicial",
+                           "metodo":  "MILP",
+                           "costo":  49734,
+                           "antenas":  21,
+                           "clientes":  500,
+                           "cota":  31318.0,
+                           "tiempo":  null
+                       },
+                       {
+                           "etiqueta":  "AG original · semilla 11",
+                           "metodo":  "AG",
+                           "costo":  51488,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.527621299999737
+                       },
+                       {
+                           "etiqueta":  "AG original · semilla 22",
+                           "metodo":  "AG",
+                           "costo":  52052,
+                           "antenas":  24,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  6.141318899999533
+                       },
+                       {
+                           "etiqueta":  "AG original · semilla 33",
+                           "metodo":  "AG",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  8.470222699999795
+                       },
+                       {
+                           "etiqueta":  "AG original · semilla 44",
+                           "metodo":  "AG",
+                           "costo":  51887,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  5.07686990000002
+                       },
+                       {
+                           "etiqueta":  "AG original · semilla 55",
+                           "metodo":  "AG",
+                           "costo":  51591,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.478051199999754
+                       },
+                       {
+                           "etiqueta":  "original · semilla 11",
+                           "metodo":  "AG",
+                           "costo":  51488,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.578734200000326
+                       },
+                       {
+                           "etiqueta":  "original · semilla 22",
+                           "metodo":  "AG",
+                           "costo":  52052,
+                           "antenas":  24,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  5.2091842999980145
+                       },
+                       {
+                           "etiqueta":  "original · semilla 33",
+                           "metodo":  "AG",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  7.577116199998272
+                       },
+                       {
+                           "etiqueta":  "original · semilla 44",
+                           "metodo":  "AG",
+                           "costo":  51887,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  5.177715900001203
+                       },
+                       {
+                           "etiqueta":  "original · semilla 55",
+                           "metodo":  "AG",
+                           "costo":  51591,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.868993500000215
+                       },
+                       {
+                           "etiqueta":  "mutacion_001 · semilla 11",
+                           "metodo":  "AG",
+                           "costo":  51488,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.919987900000706
+                       },
+                       {
+                           "etiqueta":  "mutacion_001 · semilla 22",
+                           "metodo":  "AG",
+                           "costo":  52052,
+                           "antenas":  24,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  5.209899900000892
+                       },
+                       {
+                           "etiqueta":  "mutacion_001 · semilla 33",
+                           "metodo":  "AG",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  8.201154200000019
+                       },
+                       {
+                           "etiqueta":  "mutacion_001 · semilla 44",
+                           "metodo":  "AG",
+                           "costo":  49051,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  5.717906599998969
+                       },
+                       {
+                           "etiqueta":  "mutacion_001 · semilla 55",
+                           "metodo":  "AG",
+                           "costo":  51591,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  4.991229100000055
+                       },
+                       {
+                           "etiqueta":  "inmigrantes_10pct · semilla 11",
+                           "metodo":  "AG",
+                           "costo":  50253,
+                           "antenas":  23,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  12.013107599999785
+                       },
+                       {
+                           "etiqueta":  "inmigrantes_10pct · semilla 22",
+                           "metodo":  "AG",
+                           "costo":  49809,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  13.627911200001108
+                       },
+                       {
+                           "etiqueta":  "inmigrantes_10pct · semilla 33",
+                           "metodo":  "AG",
+                           "costo":  49809,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  9.704037799998332
+                       },
+                       {
+                           "etiqueta":  "inmigrantes_10pct · semilla 44",
+                           "metodo":  "AG",
+                           "costo":  50616,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  13.724578600002133
+                       },
+                       {
+                           "etiqueta":  "inmigrantes_10pct · semilla 55",
+                           "metodo":  "AG",
+                           "costo":  49715,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  null,
+                           "tiempo":  10.371743600000627
+                       },
+                       {
+                           "etiqueta":  "MILP · piloto_highs",
+                           "metodo":  "MILP",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  28366.0,
+                           "tiempo":  null
+                       },
+                       {
+                           "etiqueta":  "MILP · piloto_scip",
+                           "metodo":  "MILP",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  28076.587055438962,
+                           "tiempo":  null
+                       },
+                       {
+                           "etiqueta":  "MILP · prolongada_highs",
+                           "metodo":  "MILP",
+                           "costo":  49226,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  31562.0,
+                           "tiempo":  null
+                       },
+                       {
+                           "etiqueta":  "HiGHS adicional · mejor solución global",
+                           "metodo":  "MILP",
+                           "costo":  48878,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  33433.0,
+                           "tiempo":  7193.593999999997
+                       },
+                       {
+                           "etiqueta":  "SCIP adicional · mejor cota inferior",
+                           "metodo":  "MILP",
+                           "costo":  48878,
+                           "antenas":  22,
+                           "clientes":  500,
+                           "cota":  34532.73615154492,
+                           "tiempo":  7160.922999999995
+                       }
+                   ]
+}

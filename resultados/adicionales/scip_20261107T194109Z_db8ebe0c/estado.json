@@ -1,0 +1,25 @@
+{
+  "run_id": "scip_20261107T194109Z_db8ebe0c",
+  "fecha_actualizacion": {
+    "utc": "2026-11-07T21:40:44.777104+00:00",
+    "colombia": "2026-11-07T16:40:44.777104-05:00"
+  },
+  "estado": "terminado",
+  "pid_supervisor": 7156,
+  "pid_solver": 18820,
+  "codigo_salida_worker": 0,
+  "terminacion_forzada": false,
+  "tiempo_total_segundos": 7175.672000000006,
+  "cierre_worker": {
+    "fecha": {
+      "utc": "2026-11-07T21:40:43.814053+00:00",
+      "colombia": "2026-11-07T16:40:43.814053-05:00"
+    },
+    "resultado": "resultado_final.json",
+    "completo": true,
+    "estado_solver": "timelimit"
+  },
+  "resultado_final": true,
+  "comparacion": "COMPARACION_FINAL.md",
+  "recomendacion": "Hubo mejora verificable de costo o cota. Otra estrategia acotada podría justificarse, pero no se puede prometer certificación con más horas. No continuar automáticamente."
+}

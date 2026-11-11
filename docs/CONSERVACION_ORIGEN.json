@@ -1,0 +1,9 @@
+{
+  "etapa": "validación con Python firmado",
+  "archivos_originales_verificados": 1044,
+  "originales_modificados": 0,
+  "campanas_prolongadas_repetidas": false,
+  "pruebas_breves_ejecutadas": true,
+  "main_privada_modificada": false,
+  "publicacion_publica": false
+}

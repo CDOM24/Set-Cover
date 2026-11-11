@@ -1,0 +1,26 @@
+{
+  "run_id": "highs_20261107T165507Z_7793aea9",
+  "tipo": "instancia_original_500",
+  "inicio": {
+    "utc": "2026-11-07T16:55:07.594706+00:00",
+    "colombia": "2026-11-07T11:55:07.594706-05:00"
+  },
+  "inicio_monotonic": 69833.343,
+  "deadline_monotonic": 77033.343,
+  "maximo_total_segundos": 7200,
+  "hilos": 1,
+  "semilla": 0,
+  "solver": "HiGHS 1.11.0",
+  "costo_inicio_verificado_esperado": 49051,
+  "antenas_inicio": 22,
+  "cobertura_inicio": 500,
+  "reserva_cierre_segundos": 5,
+  "regla_mapeo": "ordinal-0-1",
+  "modelo": "min cTx, Ax>=1, x binaria",
+  "fuentes_solo_lectura": [
+    "set_cover_500x500.csv",
+    "Costo_S.xlsx"
+  ],
+  "no_actualizar_proyecto_principal": true,
+  "nuevo_presupuesto_independiente_de_fases_previas": true
+}

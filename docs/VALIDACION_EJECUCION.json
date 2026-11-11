@@ -1,0 +1,67 @@
+{
+  "fecha_bogota": "2026-11-10T23:17:45.110083-05:00",
+  "python": "3.12.10",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "compilacion_CPython": {
+    "archivos": 19,
+    "errores": 0
+  },
+  "pip_check": "No broken requirements found.",
+  "dependencias": {
+    "numpy": "2.2.6",
+    "pandas": "3.1.1",
+    "scipy": "1.15.3",
+    "openpyxl": "3.1.5",
+    "streamlit": "1.67.0",
+    "matplotlib": "3.10.3",
+    "pytest": "8.3.5",
+    "pypdf": "5.9.0"
+  },
+  "pytest": {
+    "pruebas": 108,
+    "fallos": 0,
+    "errores": 0,
+    "segundos": 8.972,
+    "evidencia": "pruebas_pytest.xml"
+  },
+  "incidencia_primer_intento": {
+    "aprobadas": 107,
+    "fallos": 1,
+    "motivo": "AppTest superó 45 s en su arranque inicial. La misma prueba aislada posterior aprobó en 9,65 s sin modificar código ni límite; batería completa posterior: 108 aprobadas."
+  },
+  "navegador": {
+    "vistas": 7,
+    "descarga_csv_costo": 48878,
+    "pdf_hash_coincidente": true,
+    "validacion_originales": true,
+    "demos_navegador": [
+      {
+        "metodo": "AG",
+        "limite_busqueda_segundos": 1,
+        "duracion_interaccion_segundos": 2.21,
+        "costo": "51846",
+        "cobertura": 500,
+        "resultado_factible": true
+      },
+      {
+        "metodo": "MILP",
+        "limite_busqueda_segundos": 1,
+        "duracion_interaccion_segundos": 3.382,
+        "costo": "212146",
+        "cobertura": 500,
+        "resultado_factible": true
+      }
+    ],
+    "diagnostico_milp_adicional_costo": 414467
+  },
+  "entorno_firmado": true,
+  "protecciones_desactivadas": false,
+  "version_venv_historico": "3.12.12 port?til, conservado sin cambios",
+  "pendiente": [
+    "Ejecución real en Linux del workflow preparado",
+    "Despliegue y validación en Streamlit Community Cloud",
+    "Publicación pública: no autorizada"
+  ],
+  "optimo_certificado": false,
+  "resultados_historicos_modificados": false
+}

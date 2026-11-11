@@ -1,0 +1,14 @@
+# SCIP version 9.2.1
+
+# maximal time in seconds to run
+# [type: real, advanced: FALSE, range: [0,1e+20], default: 1e+20]
+limits/time = 1161.515
+
+# number of threads used for solving the LP (0: automatic)
+# [type: int, advanced: TRUE, range: [0,64], default: 0]
+lp/threads = 1
+
+# the maximum number of threads used during parallel solve
+# [type: int, advanced: FALSE, range: [0,64], default: 8]
+parallel/maxnthreads = 1
+

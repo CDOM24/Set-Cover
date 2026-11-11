@@ -1,0 +1,31 @@
+{
+  "limite_segundos": 600.0,
+  "mip_rel_gap": 0.0,
+  "presolve": true,
+  "mapeo": "ordinal-0-1",
+  "tipo": "instancia_real",
+  "entorno": {
+    "python": "3.12.12",
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "procesadores_logicos": 12,
+    "dependencias": {
+      "numpy": "2.2.6",
+      "openpyxl": "3.1.5",
+      "scipy": "1.15.3"
+    },
+    "highs_embebido": "1.8.0"
+  },
+  "entrada": {
+    "clientes": 500,
+    "antenas": 500,
+    "hashes_archivos": {
+      "csv": "a7404e349b5c44b6b51ec9e3b22d933b1e2c0a474a00ca06d2293fb9478f9ddf",
+      "excel": "b001dca46c698cdc359c76b5bd6bf422812368973f8f7022f5e379ca012e8871"
+    },
+    "sha256_instancia_A_c": "964c9eff4c7519e329f152a85ee348cf6a497f5f7aa5eb6d783b194f5889cf9a",
+    "sha256_snapshot_npz": "6c25a0b9e043eb6e79d34e59f69e500d55439ee09250a530341c96205a333013",
+    "regla": "regla explicita ordinal-0-1: ID Excel = etiqueta CSV + 1"
+  },
+  "supuesto_mapeo": "CSV j = Excel j+1; autorizado por estudiante, no confirmado por profesor"
+}

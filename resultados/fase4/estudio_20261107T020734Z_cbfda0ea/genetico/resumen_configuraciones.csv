@@ -1,0 +1,4 @@
+configuracion,corridas,mejor_costo,costo_medio,mediana,desviacion_estandar_poblacional,peor_costo,tiempo_ag_total_segundos,tiempo_ag_medio_segundos,supera_highs_inicial,supera_ag_historico,supera_exacto_fase4
+original,5,49226.0,51248.8,51591.0,1031.355108582878,52052.0,27.41174409999803,5.482348819999606,1,0,0
+mutacion_001,5,49051.0,50681.6,51488.0,1275.3754898068255,52052.0,29.04017770000064,5.8080355400001284,2,1,1
+inmigrantes_10pct,5,49715.0,50040.4,49809.0,343.3631313929904,50616.0,59.441378800001985,11.888275760000397,1,0,0

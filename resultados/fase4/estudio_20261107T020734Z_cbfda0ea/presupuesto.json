@@ -1,0 +1,329 @@
+{
+  "limites": {
+    "exacto": 1800.0,
+    "genetico": 900.0
+  },
+  "ejecuciones": [
+    {
+      "categorias": [
+        "exacto",
+        "genetico"
+      ],
+      "etiqueta": "pruebas pequenas iniciales (tiempo total conservador)",
+      "reserva_segundos": 63,
+      "limite_solicitado": 60,
+      "inicio_utc": "2026-11-07T02:08:02.475560+00:00",
+      "estado": "prueba_fallida",
+      "segundos_contabilizados": 5.128771199997573,
+      "fin_utc": "2026-11-07T02:08:07.605829+00:00",
+      "detalle": "Caso sintetico inviable: getBestSol devuelve un objeto nulo; corregido comprobando getNSols antes de leerlo. Tiempo conservado."
+    },
+    {
+      "categorias": [
+        "exacto",
+        "genetico"
+      ],
+      "etiqueta": "repeticion de pruebas tras corregir lectura de estado inviable",
+      "reserva_segundos": 63,
+      "limite_solicitado": 60,
+      "inicio_utc": "2026-11-07T02:08:38.458746+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 1.0048811999986356,
+      "fin_utc": "2026-11-07T02:08:39.464308+00:00"
+    },
+    {
+      "categorias": [
+        "exacto"
+      ],
+      "etiqueta": "relajacion_lineal",
+      "reserva_segundos": 8,
+      "limite_solicitado": 5,
+      "inicio_utc": "2026-11-07T02:09:25.705353+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 0.14536299999963376,
+      "fin_utc": "2026-11-07T02:09:25.851672+00:00"
+    },
+    {
+      "categorias": [
+        "exacto"
+      ],
+      "etiqueta": "piloto_highs",
+      "reserva_segundos": 33,
+      "limite_solicitado": 30,
+      "inicio_utc": "2026-11-07T02:09:25.854677+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 30.043890299999475,
+      "fin_utc": "2026-11-07T02:09:55.900495+00:00"
+    },
+    {
+      "categorias": [
+        "exacto"
+      ],
+      "etiqueta": "piloto_scip",
+      "reserva_segundos": 33,
+      "limite_solicitado": 30,
+      "inicio_utc": "2026-11-07T02:09:55.969159+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 30.141182899998967,
+      "fin_utc": "2026-11-07T02:10:26.111459+00:00"
+    },
+    {
+      "categorias": [
+        "exacto"
+      ],
+      "etiqueta": "prolongada_highs",
+      "reserva_segundos": 1646.5359114000057,
+      "limite_solicitado": 1643.5359114000057,
+      "inicio_utc": "2026-11-07T02:10:26.185595+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 1643.6073794000004,
+      "fin_utc": "2026-11-07T02:37:49.806742+00:00"
+    },
+    {
+      "categorias": [
+        "exacto",
+        "genetico"
+      ],
+      "etiqueta": "pruebas_de_configuraciones_antes_AG",
+      "reserva_segundos": 33,
+      "limite_solicitado": 30,
+      "inicio_utc": "2026-11-07T02:37:50.163091+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 3.1665407000000414,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:37:53.331598+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "original_semilla_11",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:37:54.161358+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 4.579452100002527,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:37:58.742073+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "mutacion_001_semilla_11",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:37:58.807724+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 4.920445399999153,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:03.730105+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "inmigrantes_10pct_semilla_11",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:03.811795+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 12.013560500003223,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:15.826655+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "mutacion_001_semilla_22",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:15.892269+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 5.210769299999811,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:21.104233+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "inmigrantes_10pct_semilla_22",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:21.168950+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 13.628604400000768,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:34.799327+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "original_semilla_22",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:34.863995+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 5.209961100001237,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:40.075221+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "inmigrantes_10pct_semilla_33",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:40.139872+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 9.704775000001973,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:49.846565+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "original_semilla_33",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:49.923364+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 7.577738300002238,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:38:57.501744+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "mutacion_001_semilla_33",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:38:57.565204+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 8.201454699999886,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:05.767350+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "original_semilla_44",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:05.836547+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 5.178343399998994,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:11.016179+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "mutacion_001_semilla_44",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:11.080708+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 5.718423400001484,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:16.800119+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "inmigrantes_10pct_semilla_44",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:16.864255+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 13.724956800000655,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:30.590587+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "mutacion_001_semilla_55",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:30.653212+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 4.991850800000975,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:35.647150+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "inmigrantes_10pct_semilla_55",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:35.726320+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 10.372252799999842,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:46.100257+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "original_semilla_55",
+      "reserva_segundos": 48,
+      "limite_solicitado": 45,
+      "inicio_utc": "2026-11-07T02:39:46.168371+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 4.869410999999673,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:39:51.038695+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "auditorias_y_graficas_del_lote",
+      "reserva_segundos": 0,
+      "segundos_contabilizados": 12.420769399988785,
+      "estado": "terminada",
+      "nota": "Tiempo de lote fuera de llamadas AG, contabilizado adicionalmente."
+    },
+    {
+      "categorias": [
+        "exacto",
+        "genetico"
+      ],
+      "etiqueta": "bateria_completa_final_tiempo_conservador",
+      "reserva_segundos": 63,
+      "limite_solicitado": 60,
+      "inicio_utc": "2026-11-07T02:40:02.858981+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 20.181520199999795,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:40:23.042271+00:00"
+    },
+    {
+      "categorias": [
+        "genetico"
+      ],
+      "etiqueta": "tablas_y_graficas_cientificas",
+      "reserva_segundos": 33,
+      "limite_solicitado": 30,
+      "inicio_utc": "2026-11-07T02:40:23.045376+00:00",
+      "estado": "terminada",
+      "segundos_contabilizados": 1.9421703000007255,
+      "error_clase": null,
+      "fin_utc": "2026-11-07T02:40:24.988988+00:00"
+    }
+  ]
+}

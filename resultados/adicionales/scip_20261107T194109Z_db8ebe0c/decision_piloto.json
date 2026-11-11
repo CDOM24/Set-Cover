@@ -1,0 +1,18 @@
+{
+  "continuar": true,
+  "motivos": [
+    "Alcanza referencia HiGHS cercana a 20 min y mejora >=250 en últimos 300 s"
+  ],
+  "cota_actual": 32632.503467070295,
+  "costo_actual": 48878.0,
+  "referencia_highs_20min": 31498.5245527481,
+  "ganancia_cota_ultimos_300s": 375.68921042468355,
+  "criterios_fijados_antes_de_ejecutar": true,
+  "no_continuar_si_optimo_certificado": true,
+  "fecha": {
+    "utc": "2026-11-07T20:00:39.332201+00:00",
+    "colombia": "2026-11-07T15:00:39.332201-05:00"
+  },
+  "fase_posterior": "extension",
+  "saldo_global_segundos": 6029.764999999999
+}

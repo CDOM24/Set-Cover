@@ -1,0 +1,41 @@
+{
+  "run_id": "highs_20261107T165507Z_7793aea9",
+  "fecha_actualizacion": {
+    "utc": "2026-11-07T18:55:17.938602+00:00",
+    "colombia": "2026-11-07T13:55:17.938602-05:00"
+  },
+  "estado": "interrumpido_o_fallido",
+  "pid_supervisor": 15456,
+  "pid_solver": 18600,
+  "codigo_salida_worker": 1,
+  "tiempo_total_segundos": 7200.594000000012,
+  "terminacion_forzada": true,
+  "cierre_worker": {
+    "fecha": {
+      "utc": "2026-11-07T18:55:17.033562+00:00",
+      "colombia": "2026-11-07T13:55:17.033562-05:00"
+    },
+    "resultado": "resultado_final.json",
+    "completo": true
+  },
+  "mejor_costo_verificado": 48878.0,
+  "progreso_solver_ultimo": {
+    "fecha": {
+      "utc": "2026-11-07T18:55:08.677412+00:00",
+      "colombia": "2026-11-07T13:55:08.677412-05:00"
+    },
+    "tiempo_solver_segundos": 7189.646865300005,
+    "tiempo_total_segundos": 7191.328000000009,
+    "costo_mejor_verificado": 48878.0,
+    "cota_inferior_corrida": 33429.92776472414,
+    "cota_inferior_combinada_con_historica": 33429.92776472414,
+    "brecha_relativa_solver": 0.3160536894976996,
+    "brecha_combinada_porcentaje": 31.605368949784896,
+    "nodos_explorados": 286844,
+    "estado": "en_ejecucion_parcial",
+    "optimalidad_certificada": false,
+    "fuente": "callback nativo; instante de medición indicado"
+  },
+  "resultado_final": true,
+  "nota": "Sin recuperación del árbol; archivos de incumbentes son evidencia parcial, no un checkpoint de búsqueda."
+}

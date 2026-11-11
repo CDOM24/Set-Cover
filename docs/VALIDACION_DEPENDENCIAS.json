@@ -1,0 +1,62 @@
+[
+    {
+        "paquete":  "numpy",
+        "version":  "2.2.6",
+        "existe":  true,
+        "python":  "\u003e=3.10",
+        "wheels_compatibles":  2,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/numpy/2.2.6/json",
+        "fecha_revision":  "2026-11-10"
+    },
+    {
+        "paquete":  "pandas",
+        "version":  "3.1.1",
+        "existe":  true,
+        "python":  "\u003e=3.11",
+        "wheels_compatibles":  2,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/pandas/3.1.1/json",
+        "fecha_revision":  "2026-11-10"
+    },
+    {
+        "paquete":  "openpyxl",
+        "version":  "3.1.5",
+        "existe":  true,
+        "python":  "\u003e=3.8",
+        "wheels_compatibles":  1,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/openpyxl/3.1.5/json",
+        "fecha_revision":  "2026-11-10"
+    },
+    {
+        "paquete":  "scipy",
+        "version":  "1.15.3",
+        "existe":  true,
+        "python":  "\u003e=3.10",
+        "wheels_compatibles":  2,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/scipy/1.15.3/json",
+        "fecha_revision":  "2026-11-10"
+    },
+    {
+        "paquete":  "matplotlib",
+        "version":  "3.10.3",
+        "existe":  true,
+        "python":  "\u003e=3.10",
+        "wheels_compatibles":  2,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/matplotlib/3.10.3/json",
+        "fecha_revision":  "2026-11-10"
+    },
+    {
+        "paquete":  "streamlit",
+        "version":  "1.67.0",
+        "existe":  true,
+        "python":  "\u003e=3.11",
+        "wheels_compatibles":  1,
+        "error":  null,
+        "fuente":  "https://pypi.org/pypi/streamlit/1.67.0/json",
+        "fecha_revision":  "2026-11-10"
+    }
+]

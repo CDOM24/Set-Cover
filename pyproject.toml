@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "set-cover-academico"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+description = "SET COVER ponderado: código, resultados auditables e interfaz académica"
+[tool.setuptools.packages.find]
+include = ["setcover*"]
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

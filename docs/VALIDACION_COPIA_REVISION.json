@@ -1,0 +1,11 @@
+{
+  "rama": "revision-entrega-publica",
+  "carpeta": "entrega-publica",
+  "auditoria_python_correcta": true,
+  "ruta_resuelta_dentro_de_la_copia": true,
+  "pytest_pruebas": 108,
+  "pytest_fallos": 0,
+  "pytest_segundos": 31.9,
+  "sin_campanas_prolongadas": true,
+  "main_modificada": false
+}

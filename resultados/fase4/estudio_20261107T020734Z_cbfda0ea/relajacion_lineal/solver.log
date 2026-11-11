@@ -1,0 +1,25 @@
+Running HiGHS 1.11.0 (git hash: 364c83a): Copyright (c) 2025 HiGHS under MIT licence terms
+Writing the model to resultados\fase4\estudio_20261107T020734Z_cbfda0ea\relajacion_lineal\solver.mps
+WARNING: There are empty or excessively-long column names: using constructed names with prefix "c"
+WARNING: There are empty or excessively-long row names: using constructed names with prefix "r"
+LP   has 500 rows; 500 cols; 24971 nonzeros
+Coefficient ranges:
+  Matrix [1e+00, 1e+00]
+  Cost   [2e+03, 4e+03]
+  Bound  [1e+00, 1e+00]
+  RHS    [1e+00, 1e+00]
+Presolving model
+500 rows, 500 cols, 24971 nonzeros  0s
+500 rows, 500 cols, 24971 nonzeros  0s
+Presolve : Reductions: rows 500(-0); columns 500(-0); elements 24971(-0) - Not reduced
+Problem not reduced by presolve: solving the LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     0.0000000000e+00 Pr: 500(500) 0s
+        859     2.7859926590e+04 Pr: 0(0) 0s
+Model status        : Optimal
+Simplex   iterations: 859
+Objective value     :  2.7859926590e+04
+P-D objective error :  1.3710765465e-15
+HiGHS run time      :          0.11
+Writing the solution to resultados\fase4\estudio_20261107T020734Z_cbfda0ea\relajacion_lineal\solver.sol

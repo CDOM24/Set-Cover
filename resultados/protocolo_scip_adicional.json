@@ -1,0 +1,23 @@
+{
+  "solver": "SCIP 9.2.1",
+  "interfaz": "PySCIPOpt 5.5.0",
+  "hilos": 1,
+  "limite_piloto_global_segundos": 1200,
+  "limite_global_segundos": 7200,
+  "costo_inicio": 48878,
+  "cota_historica": 33433,
+  "referencia_highs_20min_segundos": 1203.9480387000076,
+  "referencia_highs_20min_cota": 31498.5245527481,
+  "continuar_si": [
+    "Mejora verificada estricta del costo frente a 48878",
+    "Cota inferior propia supera 33433",
+    "Cota propia al menos igual a la observada en HiGHS cerca de 1200 s y ganancia de cota de al menos 250 en los últimos 300 s"
+  ],
+  "detener_si": [
+    "óptimo certificado",
+    "error o solicitud de detención",
+    "ningún criterio de continuación cumplido al terminar el piloto"
+  ],
+  "no_reinicio_arbol_para_extension": true,
+  "nota": "Continuación en memoria sobre el mismo Model solo si prueba de API confirma soporte. No recuperación desde disco tras caída."
+}

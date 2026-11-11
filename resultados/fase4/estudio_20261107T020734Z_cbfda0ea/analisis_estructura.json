@@ -1,0 +1,16 @@
+{
+  "clientes": 500,
+  "antenas": 500,
+  "no_ceros": 24971,
+  "rango_costos": [
+    2000.0,
+    3998.0
+  ],
+  "relajacion_lp": 27859.926590177754,
+  "variables_fraccionarias_relajacion": 199,
+  "variables_positivas_relajacion": 199,
+  "pares_filas_subconjunto": [],
+  "antenas_dominadas_costo_cobertura": [],
+  "transformaciones_aplicadas": false,
+  "scip_preprocesamiento_observado": "500 restricciones lineales actualizadas a logicor; 0 variables/restricciones eliminadas y sin simetria detectada"
+}

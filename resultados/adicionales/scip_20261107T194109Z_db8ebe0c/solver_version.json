@@ -1,0 +1,12 @@
+{
+  "SCIP": "9.2.1",
+  "parametros": {
+    "parallel/maxnthreads": 1,
+    "lp/threads": 1,
+    "timing/clocktype": 2,
+    "randomization/randomseedshift": 0,
+    "limits/gap": 0.0,
+    "limits/absgap": 0.0
+  },
+  "inicio_aceptado_api": true
+}

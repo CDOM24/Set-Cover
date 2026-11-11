@@ -1,0 +1,184 @@
+[
+    {
+        "archivo":  "resultados/fase2/exacto_20261106T231024Z_73e76626/resultado.json",
+        "etiqueta":  "HiGHS inicial",
+        "metodo":  "MILP",
+        "estudio":  "Fase 2",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_11/resultado.json",
+        "etiqueta":  "AG original · semilla 11",
+        "metodo":  "AG",
+        "estudio":  "Fase 3",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_22/resultado.json",
+        "etiqueta":  "AG original · semilla 22",
+        "metodo":  "AG",
+        "estudio":  "Fase 3",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_33/resultado.json",
+        "etiqueta":  "AG original · semilla 33",
+        "metodo":  "AG",
+        "estudio":  "Fase 3",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_44/resultado.json",
+        "etiqueta":  "AG original · semilla 44",
+        "metodo":  "AG",
+        "estudio":  "Fase 3",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase3/ag_20261107T003622Z_080edefe/semilla_55/resultado.json",
+        "etiqueta":  "AG original · semilla 55",
+        "metodo":  "AG",
+        "estudio":  "Fase 3",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_11/resultado.json",
+        "etiqueta":  "original · semilla 11",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_22/resultado.json",
+        "etiqueta":  "original · semilla 22",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_33/resultado.json",
+        "etiqueta":  "original · semilla 33",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_44/resultado.json",
+        "etiqueta":  "original · semilla 44",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/original/semilla_55/resultado.json",
+        "etiqueta":  "original · semilla 55",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_11/resultado.json",
+        "etiqueta":  "mutacion_001 · semilla 11",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_22/resultado.json",
+        "etiqueta":  "mutacion_001 · semilla 22",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_33/resultado.json",
+        "etiqueta":  "mutacion_001 · semilla 33",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_44/resultado.json",
+        "etiqueta":  "mutacion_001 · semilla 44",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/mutacion_001/semilla_55/resultado.json",
+        "etiqueta":  "mutacion_001 · semilla 55",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_11/resultado.json",
+        "etiqueta":  "inmigrantes_10pct · semilla 11",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_22/resultado.json",
+        "etiqueta":  "inmigrantes_10pct · semilla 22",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_33/resultado.json",
+        "etiqueta":  "inmigrantes_10pct · semilla 33",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_44/resultado.json",
+        "etiqueta":  "inmigrantes_10pct · semilla 44",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/genetico/inmigrantes_10pct/semilla_55/resultado.json",
+        "etiqueta":  "inmigrantes_10pct · semilla 55",
+        "metodo":  "AG",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_highs/resultado.json",
+        "etiqueta":  "MILP · piloto_highs",
+        "metodo":  "MILP",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/piloto_scip/resultado.json",
+        "etiqueta":  "MILP · piloto_scip",
+        "metodo":  "MILP",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/fase4/estudio_20261107T020734Z_cbfda0ea/prolongada_highs/resultado.json",
+        "etiqueta":  "MILP · prolongada_highs",
+        "metodo":  "MILP",
+        "estudio":  "Fase 4",
+        "esquema":  "historico"
+    },
+    {
+        "archivo":  "resultados/adicionales/highs_20261107T165507Z_7793aea9/resultado_final.json",
+        "etiqueta":  "HiGHS adicional · mejor solución global",
+        "metodo":  "MILP",
+        "estudio":  "Investigación adicional 1",
+        "esquema":  "highs_adicional"
+    },
+    {
+        "archivo":  "resultados/adicionales/scip_20261107T194109Z_db8ebe0c/resultado_final.json",
+        "etiqueta":  "SCIP adicional · mejor cota inferior",
+        "metodo":  "MILP",
+        "estudio":  "Investigación adicional 2",
+        "esquema":  "scip_adicional"
+    }
+]
