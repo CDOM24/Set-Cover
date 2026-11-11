@@ -1,0 +1,28 @@
+{
+  "fecha_bogota": "2026-11-11",
+  "alcance": "Presentación local; sin commit, push ni despliegue",
+  "pruebas": {
+    "name": "pytest",
+    "errors": "0",
+    "failures": "0",
+    "skipped": "0",
+    "tests": "110",
+    "time": "8.225",
+    "timestamp": "2026-11-11T00:39:18.284264-05:00"
+  },
+  "archivos_protegidos_identicos_a_HEAD": 244,
+  "pdf_sha256": "e4bfc2b9c7f0c5e69c72c0e24522b8a195bac5d2870584e0a208b15fddfaca55",
+  "algoritmos_modificados": false,
+  "corridas_historicas_modificadas": false,
+  "optimizaciones_prolongadas": false,
+  "enlaces_externos_http": {
+    "https://set-cover-coliva.streamlit.app/": 200,
+    "https://github.com/CDOM24/Set-Cover": 200,
+    "https://github.com/CDOM24/Set-Cover/actions/workflows/pruebas.yml": 200
+  },
+  "incidencias_corregidas": [
+    "Aserción nueva de prueba que no contemplaba llaves escapadas en LaTeX; corregida sin cambiar la ecuación.",
+    "Selector inicial del ensayo de navegador buscaba stLatex; ajustado a .katex-display .katex."
+  ],
+  "pendiente": "Publicación autorizada y comprobación posterior en GitHub Actions/Cloud."
+}

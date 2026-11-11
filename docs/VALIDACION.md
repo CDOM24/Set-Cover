@@ -8,8 +8,10 @@ El primer arranque AppTest superó 45 s: 107 pruebas aprobadas y una fallida. No
 
 Las demostraciones tuvieron límite de búsqueda de un segundo. El tiempo total incluye iniciar el proceso, cargar librerías y auditar, por lo que es mayor. No actualizan las estadísticas ni el mejor costo global. No se repitieron búsquedas prolongadas.
 
-**Publicación:** revisión privada aprobada y entrega autorizada en CDOM24/Set-Cover, main, con la aplicación en la raíz. El resultado real de Linux se consulta en [GitHub Actions](https://github.com/CDOM24/Set-Cover/actions/workflows/pruebas.yml). **Pendiente:** despliegue y verificación en Community Cloud. Los JSON y XML de validación local conservan el contexto y las limitaciones de la revisión anterior.
+**Publicación:** revisión privada aprobada y entrega autorizada en CDOM24/Set-Cover, main, con la aplicación en la raíz. El resultado real de Linux se consulta en [GitHub Actions](https://github.com/CDOM24/Set-Cover/actions/workflows/pruebas.yml). **Aplicación desplegada:** https://set-cover-coliva.streamlit.app/. La revisión visual nueva está aprobada para publicación; su comprobación desplegada se realiza tras el push. Los JSON y XML de validación local conservan el contexto y las limitaciones de la revisión anterior.
 
 El análisis estático previo con Node queda identificado como comprobación anterior, no como sustituto de las pruebas CPython que ahora sí se ejecutaron. No se desactivó ninguna protección de Windows.
 
 El manifiesto MANIFIESTO_REVISION.json es una instantánea histórica de la copia revisada, anterior a los ajustes de README y estado. No es un manifiesto de hashes de la publicación actual. Los hashes científicos vigentes se verifican mediante resultados/procedencia.json.
+
+La validación anterior corresponde a siete vistas con demostraciones y carga de archivos. Estas funciones se retiraron en la revisión de presentación, documentada por separado en REVISION_PRESENTACION.md. Los archivos de evidencia anteriores no se reescriben.

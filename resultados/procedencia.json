@@ -57,7 +57,10 @@
     {
         "archivo":  "docs/modelo_matematico.md",
         "origen":  "docs/modelo_matematico.md",
-        "sha256":  "8cca8fa987c14d0e13d44504adba5af90e4cb57a9748ab719de062fa15be77b0"
+        "sha256":  "3ffa1465c4bea7765f5e2fb40e18534f0d12784f59b486529f56e9905a724551",
+        "sha256_original": "8cca8fa987c14d0e13d44504adba5af90e4cb57a9748ab719de062fa15be77b0",
+        "commit_original": "20cbec6d9a020d940b38db8575c05a4a6b568cf3",
+        "adaptacion": "Solo documentación: enlaces a archivos públicos existentes, delimitadores matemáticos y estado de optimalidad. Modelo sin cambios."
     },
     {
         "archivo":  "docs/referencias.bib",

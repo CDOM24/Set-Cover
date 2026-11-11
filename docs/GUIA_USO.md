@@ -1,13 +1,13 @@
 # Guía de uso y explicación
 
-1. **Resumen:** distinguir 49.051 del AG, 48.878 encontrado por HiGHS y 34.532,74 como cota de SCIP. No decir que encontramos el óptimo.
-2. **Datos y soluciones:** explorar las 22 antenas, su costo individual y la cobertura de cada cliente. Explicar el supuesto CSV j ↔ Excel j+1.
+1. **Inicio:** distinguir 49.051 del AG, 48.878 encontrado por HiGHS y 34.532,74 como cota de SCIP. No decir que encontramos el óptimo.
+2. **Problema y datos:** explorar las 22 antenas, su costo individual y la cobertura de cada cliente. Explicar el supuesto CSV j ↔ Excel j+1.
 3. **Método exacto:** mostrar la función objetivo, las coberturas y las binarias. Una solución factible da una cota superior; el árbol produce cotas inferiores y no cerró la diferencia.
 4. **Algoritmo genético:** cromosoma de 500 bits, torneo, cruce, mutación, elitismo, reparación y poda. La reparación garantiza cobertura de los individuos admitidos; no garantiza optimalidad.
 5. **Comparación:** observar todas las semillas. El mejor caso y el promedio son conceptos distintos. El tiempo de una corrida no es el esfuerzo de toda la campaña.
-6. **Informe:** descargar el PDF definitivo. La captura que aparece en él corresponde a la interfaz histórica; los números nuevos están en la interfaz actualizada.
+6. **Metodología:** explicar cómo evaluamos las soluciones; el informe queda como recurso complementario descargable. La captura que aparece en él corresponde a la interfaz histórica; los números nuevos están en la interfaz actualizada.
 
-Consultar las páginas no inicia optimizadores. Las demostraciones están desactivadas por defecto, no son necesarias para defender los resultados y no sustituyen las corridas del informe.
+Consultar las páginas no inicia optimizadores. La interfaz presenta únicamente los datos originales y las corridas conservadas, sin carga de archivos ni demostraciones.
 
 ## Preguntas clave
 

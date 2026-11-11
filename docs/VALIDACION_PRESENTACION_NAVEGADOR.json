@@ -1,0 +1,35 @@
+{
+  "url_local": "http://127.0.0.1:8516",
+  "navegador": "Microsoft Edge, perfil aislado",
+  "paginas": [
+    {
+      "seccion": "Inicio"
+    },
+    {
+      "seccion": "Problema y datos",
+      "antenas": 22,
+      "costo": 48878
+    },
+    {
+      "seccion": "Método exacto",
+      "ecuaciones": 4,
+      "errores_katex": 0
+    },
+    {
+      "seccion": "Algoritmo genético"
+    },
+    {
+      "seccion": "Comparación",
+      "ecuaciones": 2
+    },
+    {
+      "seccion": "Metodología",
+      "pdf_sha256": "e4bfc2b9c7f0c5e69c72c0e24522b8a195bac5d2870584e0a208b15fddfaca55"
+    }
+  ],
+  "errores_js": [],
+  "titulo_pestana": "SET COVER | Coliva",
+  "movil_ancho": 390,
+  "desbordamiento_horizontal": false,
+  "correcto": true
+}
